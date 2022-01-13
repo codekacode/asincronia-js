@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/codekacode/asincronia-js/issues"
   },
-  "homepage": "https://github.com/codekacode/asincronia-js#readme"
+  "homepage": "https://github.com/codekacode/asincronia-js#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
